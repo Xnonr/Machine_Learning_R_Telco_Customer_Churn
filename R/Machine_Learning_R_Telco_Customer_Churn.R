@@ -27,7 +27,7 @@ library(cluster)
 library(rpart.plot)
 
 #Adjusts the working directory as needed
-setwd("~/Documents/github/RMachineLearningTelcoCustomerChurn")
+#setwd("~/Documents/github/RMachineLearningTelcoCustomerChurn")
 
 #Loads the original 'Telco_Customer_Churn.csv' base data file into a data frame
 createBaseDataFrame <- function(baseCSVFile = 'Telco_Customer_Churn.csv') {
