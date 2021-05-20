@@ -1,11 +1,20 @@
 Package: RMachineLearningTelcoCustomerChurn
 Type: Package
-Title: What the Package Does (Title Case)
+Title: RMachineLearningTelcoCustomerChurn
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Maxence Brette
+Maintainer: Maxence Brette <yourself@somewhere.net>
+Description: Models customer churn and price optimization.
+Depends: R (>= 4.0.0)
+Imports:
+    dplyr,
+    e1071,
+    rpart,
+    taRifx,
+    stringr,
+    compare,
+    cluster,
+    rpart.plot
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
