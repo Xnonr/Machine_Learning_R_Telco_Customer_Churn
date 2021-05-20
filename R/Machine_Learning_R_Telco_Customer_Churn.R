@@ -17,7 +17,7 @@ cat("\014") #Clears the R Studio Console
 
 library(dplyr)
 library(e1071)
-#library(caret)
+library(caret)
 library(rpart)
 library(taRifx)
 #library(adabag)
