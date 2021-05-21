@@ -17,7 +17,7 @@
 }
 \author{Maxence Brette}
 \examples{
-createBaseDataFrame()
-createBaseDataFrame('Telco_Customer_Churn.csv')
-createBaseDataFrame('2021_Store_Sales.csv')
+##createBaseDataFrame()
+##createBaseDataFrame('Telco_Customer_Churn.csv')
+##createBaseDataFrame('2021_Store_Sales.csv')
 }

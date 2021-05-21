@@ -30,5 +30,5 @@
 }
 \author{Maxence Brette}
 \examples{
-loadTrueResults()
+##loadTrueResults()
 }

@@ -24,4 +24,4 @@
    }
 }
 \author{Maxence Brette}
-\examples{adjustBaseDF(baseDF)}
+\examples{##adjustBaseDF(baseDF)}
