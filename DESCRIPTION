@@ -3,7 +3,7 @@ Type: Package
 Title: RMachineLearningTelcoCustomerChurn
 Version: 0.1.0
 Author: Maxence Brette
-Maintainer: Maxence Brette <yourself@somewhere.net>
+Maintainer: Maxence Brette <maxbrette@gmail.com>
 Description: Models customer churn and price optimization.
 Depends: R (>= 4.0.0)
 Imports:
